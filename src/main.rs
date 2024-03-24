@@ -1,4 +1,4 @@
-//! Backend of the Sock Tracker application
+//! Backend of the Socky application
 
 use std::net::SocketAddr;
 

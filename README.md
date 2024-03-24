@@ -1,6 +1,6 @@
-# Sock Tracker Backend
+# Socky Backend
 
-Backend repository for the Sock Tracker application
+Backend repository for the Socky application
 
 ## Usage
 

@@ -5,7 +5,7 @@
 [env]
 
 # Scope down tracing, to filter out external lib tracing.
-RUST_LOG="sock_tracker_be=info"
+RUST_LOG="socky_be=info"
 
 # Service Environment Variables
 # IMPORTANT: 
@@ -18,7 +18,7 @@ RUST_LOG="sock_tracker_be=info"
 # e.g., "welcome" type of passwords.
 # i.e., Encryption not needed.
 
-SERVICE_DB_URL="postgres://app_user:dev_only_pwd@localhost/sock_tracker_db"
+SERVICE_DB_URL="postgres://app_user:dev_only_pwd@localhost/socky_db"
 
 ## Config
 
